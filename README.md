@@ -27,20 +27,3 @@ It focuses on high-end web animations, interactive scroll experiences, and creat
 | **Three.js** | 3D effects and visuals |
 | **SheryJS** | UI/animation helper library |
 
----
-
-## ⚙️ Project Setup
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/bilalsk111/obys.agency.git
-
-# Navigate into the project directory
-cd StudioArc
-
-# Install dependencies
-npm install
-
-# Start a local server
-npm run dev
-
